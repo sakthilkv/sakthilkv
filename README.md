@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SakthiLKV
-- 👀 I’m interested in Python and Cinema
+- 👀 I’m interested in CPP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me @sakthilk on Instagram
