@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @SakthiLKV
-- 👀 I’m interested in CPP
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me @sakthilk on Instagram
+# Hi there! 👋
 
-<!---
-SakthiLK/SakthiLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sakthi, a passionate programmer diving into the world of competitive programming and anime adventures. 🚀🌟
+
+### About Me
+
+- 🔭 I do competitive programming.
+- 📈 My ratings:
+  - **LeetCode:** 1466
+  - **Codeforces:** 805
+  - **CodeChef:** 1200
+### What I Do
+
+- 🖥️ Solving coding challenges on LeetCode, Codeforces, and CodeChef.
+- 🌟 Exploring the enchanting worlds of anime during my leisure time.
+
+### Get in Touch
+
+Feel free to connect with me! Let's chat about programming, anime, or anything interesting. 📫 @sakthilk on instagram
+
+Looking forward to collaborating and sharing programming insights! ✨
