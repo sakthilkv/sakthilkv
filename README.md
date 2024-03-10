@@ -1,18 +1,17 @@
 # Hi there! 👋
 
-I'm Sakthi, a passionate programmer diving into the world of competitive programming and anime adventures. 🚀🌟
+I'm Sakthi, a passionate programmer diving into the world of programming. 🚀🌟
 
 ### About Me
 
 - 🔭 I do competitive programming.
-- 📈 My ratings:
-  - **LeetCode:** 1466
-  - **Codeforces:** 805
-  - **CodeChef:** 1200
+- 🌐 I'm interested in Systems Engineering & Networking.
+
 ### What I Do
 
-- 🖥️ Solving coding challenges on LeetCode, Codeforces, and CodeChef.
-- 🌟 Exploring the enchanting worlds of anime during my leisure time.
+-  🖥️  Solving coding challenges on LeetCode and Codeforces.
+-  🌐 Gaining knowledge about Networking and Systems Engineering.
+-  🌟 Exploring the enchanting worlds of anime during my leisure time. 
 
 ### Get in Touch
 
