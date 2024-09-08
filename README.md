@@ -2,12 +2,12 @@
 
 I'm Sakthi, 🎓 3rd-year CS Engineering student 🚀🌟
 
-### About Me
+## About Me
 
 - 🔭 I do competitive programming.
 - 🌐 I'm interested in developing softwares, APIs and chess.
 
-### What I Do
+## What I Do
 
 - 🖥️ I create CRUD-based management systems.
 - 🌐 I work on LeetCode and watch anime.
