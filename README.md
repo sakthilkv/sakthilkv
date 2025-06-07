@@ -13,7 +13,7 @@ I'm Sakthi, 🎓 3rd-year CS Engineering student 🚀🌟
 
 **Languages:**  TypeScript · JavaScript · Python · C++ · SQL  
 
-**Frontend:**  React · Next.js · Tailwind CSS · Flutter · HTML/CSS  
+**Frontend:**  React · Tailwind CSS · Flutter · HTML/CSS  
 
 **Backend:**  Node.js · Express · Flask · Supabase · Firebase · PostgreSQL  
 
