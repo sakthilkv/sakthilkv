@@ -27,7 +27,7 @@ I'm Sakthi, 🎓 4th-year CS Engineering student 🚀🌟
 ---
 
 ## Github Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sakthilkv&theme=radical&row=1&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sakthilkv&row=1&margin-w=5)
 
 ---
 
