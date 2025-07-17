@@ -20,4 +20,4 @@ I'm Sakthi, 🎓 4th-year CS Engineering student 🚀🌟
 **AI/ML:**  Gemini API · OpenAI API  
 
 **Tools:**  Git · GitHub · Vercel · Render · Postman
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthilkv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthilkv)](https://github.com/anuraghazra/github-readme-stats)
