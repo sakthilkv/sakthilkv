@@ -36,5 +36,5 @@ I'm Sakthi, 🎓 4th-year CS Engineering student 🚀🌟
 
 ---
 <p align="center">
-    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Kaushik-Kalesh&style=flat-square" />
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=sakthilkv&style=flat-square" />
 </p>
