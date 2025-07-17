@@ -35,3 +35,6 @@ I'm Sakthi, 🎓 4th-year CS Engineering student 🚀🌟
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthilkv&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<p align="center">
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Kaushik-Kalesh&style=flat-square" />
+</p>
