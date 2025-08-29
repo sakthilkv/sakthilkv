@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sakthi, 🎓 4th-year CS Engineering student 🚀🌟
+I'm Sakthi, 🎓 4th-year IT Engineering student 🚀🌟
 
 ## About Me
 
